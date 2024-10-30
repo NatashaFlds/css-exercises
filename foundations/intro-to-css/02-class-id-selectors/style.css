@@ -1,0 +1,19 @@
+.odd {
+    background-color:hwb(2 52% 12% / 0.685);
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+div#second{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.third {
+    font-size:24px;
+}
+
+#fourth {
+    background-color: rgb(178, 235, 112);
+    font-size: 24px;
+    font-weight:bold;
+}
